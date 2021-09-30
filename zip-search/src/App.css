@@ -4,3 +4,20 @@
   color: white;
   text-align: center;
 }
+
+.city-container {
+  width: 450px;
+  margin: 0 auto;
+  border: solid 1px lightgray;
+  margin-bottom: 1rem;
+}
+
+.header-container {
+  background: lightgray;
+  padding: 0.5rem;
+}
+
+.info-container {
+  background: white;
+  padding: 1rem 1rem 1rem 3rem;
+}
