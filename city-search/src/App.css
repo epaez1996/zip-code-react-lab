@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.zip-container {
+  padding: 1rem;
+  background: lightgray;
+  width: 150px;
+  margin: 0 auto 1rem auto;
+  font-weight: bold;
+}
